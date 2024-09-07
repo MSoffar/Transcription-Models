@@ -1,0 +1,15 @@
+Transcription Times for Each Audio File:
+File 1.wav: 22.20 seconds
+File 2.wav: 21.89 seconds
+File 3.wav: 20.99 seconds
+File 4.wav: 20.93 seconds
+File 5.wav: 21.53 seconds
+File 6.wav: 23.47 seconds
+File 7.wav: 21.80 seconds
+File 8.wav: 21.00 seconds
+File 9.wav: 22.96 seconds
+File 10.wav: 21.07 seconds
+File 11.wav: 23.28 seconds
+File 12.wav: 23.71 seconds
+
+Average Transcription Time: 22.07 seconds

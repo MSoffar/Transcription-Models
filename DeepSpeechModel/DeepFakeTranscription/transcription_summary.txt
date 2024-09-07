@@ -1,0 +1,15 @@
+Transcription Times and Audio Durations:
+File 1: Time = 77.53 seconds, Duration = 150.00 seconds
+File 2: Time = 71.75 seconds, Duration = 150.00 seconds
+File 3: Time = 62.74 seconds, Duration = 150.00 seconds
+File 4: Time = 66.10 seconds, Duration = 150.00 seconds
+File 5: Time = 66.05 seconds, Duration = 150.00 seconds
+File 6: Time = 62.64 seconds, Duration = 150.00 seconds
+File 7: Time = 66.42 seconds, Duration = 150.00 seconds
+File 8: Time = 70.85 seconds, Duration = 150.00 seconds
+File 9: Time = 67.63 seconds, Duration = 150.00 seconds
+File 10: Time = 67.79 seconds, Duration = 150.00 seconds
+File 11: Time = 71.05 seconds, Duration = 150.00 seconds
+File 12: Time = 71.28 seconds, Duration = 150.00 seconds
+
+Average Transcription Time: 68.485 seconds
